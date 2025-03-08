@@ -1,27 +1,15 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Matteo Concutelli",
+    "label": "Cybersecurity student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "concutellimatteo at gmail dot com",
+    "phone": "",
+    "url": "https://matteoconcutelli.github.io/",
+    "summary": ""
   },
+
+  /*
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -33,31 +21,86 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  */
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Sapienza, Rome",
+      "location": "Rome, Italy",
+      "url": "https://www.uniroma1.it/it/pagina-strutturale/home",
+      "area": "Cybersecurity",
+      "studyType": "Master",
+      "startDate": "2023-10",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Malware Analysis", 
+        "Cryptography", 
+        "Machine Learning", 
+        "Ethical Hacking", 
+        "Distributed Systems", 
+        "Network Infrastructures", 
+        "Practical Network Defense", 
+        "Blockchain and Distributed Ledger Technologies",
+        "Security Governance",
+        "Data and Network Security",
+        "Statistics",
+        "Cyber and Computer Law"
+      ]
+    },
+    {
+      "institution": "University of Tor Vergata, Rome",
+      "location": "Rome, Italy",
+      "url": "https://web.uniroma2.it/",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2020-10",
+      "endDate": "2023-07",
+      "score": "110/110",
+      "courses": [
+        "Computer Systems Architecture",
+        "Discrete Mathematics",
+        "Mathematical Analysis",
+        "Logic and Logical Networks",
+        "Physics",
+        "Computer Programming with Lab",
+        "Geometry and Algebra",
+        "Probability and Statistics",
+        "Operating Systems and Networks",
+        "Algorithms and Data Structures",
+        "Fundamentals of Computer Science",
+        "Operations Research",
+        "English Language (B2 Level)",
+        "Programming Languages and Methodologies",
+        "Databases",
+        "Web Programming",
+        "Numerical Calculus",
+        "Algorithms and Data Structures 2",
+        "Other Training Activities",
+        "Software Engineering",
+        "Java Programming for Mobile Devices"
+      ]
     }
   ],
+
+  "volunteer": [
+    {
+      "organization": "Board of European Students of Technology (BEST)",
+      "location": "Rome, Italy",
+      "position": "Internal Relations Team Member",
+      "url": "https://best.eu.org/",
+      "startDate": "2022-10",
+      "endDate": "2023-07",
+      "summary": "Participated in a nonprofit volunteer association, organized the 3rd BEST Hack event, and gained experience managing teams and solving problems.",
+      "highlights": [
+        "Organized a computer event called 3rd BEST Hack.",
+        "Directed a team of 3 people for event promotion, participant management, and fundraising.",
+        "Managed task assignments during meetings and extended the event's duration from one semester to a full academic year."
+      ]
+    }
+  ],
+  
+  /*
   "awards": [
     {
       "title": "Nobel Prize in Physics",
@@ -67,6 +110,8 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
+  
+
   "certificates": [
     {
       "name": "Machine Learning",
@@ -111,6 +156,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
+
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
@@ -134,6 +180,7 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
+
   "skills": [
     {
       "name": "Physics",
@@ -149,9 +196,11 @@
       ]
     }
   ],
+  */
+
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -161,6 +210,8 @@
       "icon": ""
     }
   ],
+
+  /*
   "interests": [
     {
       "name": "Physics",
@@ -175,6 +226,7 @@
       ]
     }
   ],
+
   "references": [
     {
       "name": "Professor John Doe",
@@ -187,6 +239,7 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
+
   "projects": [
     {
       "name": "Quantum Computing",
@@ -197,4 +250,7 @@
       "url": "https://example.com"
     }
   ]
+
+  */
+  
 }
