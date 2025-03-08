@@ -9,7 +9,6 @@ profile:
   image: my_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Rome, Italy</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,8 +27,8 @@ latest_posts:
 
 I’m a <b>Computer Science graduate</b> with a passion for technology and cybersecurity. 
 
-I earned my Bachelor's degree from Università degli Studi di Roma "Tor Vergata," where I built a solid foundation in computing and software development. 
+I earned my Bachelor's degree from Università degli Studi di Roma "Tor Vergata," where I built a solid foundation in computing, algorithms and software development. 
 
 Currently, I’m completing my Master's degree in Cybersecurity at Sapienza University of Rome, further honing my skills in protecting digital infrastructures and data.
 
-My academic journey has been complemented by hands-on projects.
+My academic journey has been complemented by hands-on projects uploaded to this portfolio.
