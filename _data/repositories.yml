@@ -4,12 +4,12 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - Malware-Analysis-Exam
-  - Network-Infrastructures
-  - Machine-Learning-Assignments
-  - Ethical-Hacking-Assignment
-  - MST-Julia
-  - Lost-in-Assets
-  - TodoListApp
-  - Unity-projects
+  - MatteoConcutelli/Malware-Analysis-Exam
+  - MatteoConcutelli/Network-Infrastructures
+  - MatteoConcutelli/Machine-Learning-Assignments
+  - MatteoConcutelli/Ethical-Hacking-Assignment
+  - MatteoConcutelli/MST-Julia
+  - MatteoConcutelli/Lost-in-Assets
+  - MatteoConcutelli/TodoListApp
+  - MatteoConcutelli/Unity-projects
   
