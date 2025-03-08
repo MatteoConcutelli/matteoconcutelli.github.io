@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-repositories",
-          title: "Repositories",
+          title: "repositories",
           description: "Here there is my github profile with some of my repositories.",
           section: "Navigation",
           handler: () => {
@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Here&#39;s my curriculum vitae.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
