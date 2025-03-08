@@ -196,6 +196,8 @@ exclude:
   - _posts/*.md
   - _pages/teaching.md
   - _pages/projects.md
+  - _projects/*.md
+  - _news/*.md
   
 keep_files:
   - CNAME
