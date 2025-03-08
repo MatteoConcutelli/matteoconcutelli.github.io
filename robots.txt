@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://matteoconcutelli.github.io//sitemap.xml
+Sitemap: https://matteoconcutelli.github.io/sitemap.xml
