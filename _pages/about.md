@@ -26,10 +26,10 @@ latest_posts:
   
 ---
 
-I’m a <b>Computer Science graduate<b> with a passion for technology and cybersecurity. 
+I’m a <b>Computer Science graduate</b> with a passion for technology and cybersecurity. 
 
 I earned my Bachelor's degree from Università degli Studi di Roma "Tor Vergata," where I built a solid foundation in computing and software development. 
 
 Currently, I’m completing my Master's degree in Cybersecurity at Sapienza University of Rome, further honing my skills in protecting digital infrastructures and data.
 
-My academic journey has been complemented by hands-on projects—many of which you can explore on my GitHub.
+My academic journey has been complemented by hands-on projects.
