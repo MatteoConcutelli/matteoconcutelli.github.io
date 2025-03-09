@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ethical Hacking Linkedin Post
-date: 2024-11
+date: 2024-11-01 00:00:00
 description:
 tags: Ethical-Hacking, Cybersecurity
 categories: linkedin-service
