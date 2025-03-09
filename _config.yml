@@ -194,7 +194,6 @@ exclude:
   - _pages/teaching.md
   - _pages/projects.md
   - _projects/*.md
-  - _news/*.md
   - _books/*.md
   
 keep_files:
