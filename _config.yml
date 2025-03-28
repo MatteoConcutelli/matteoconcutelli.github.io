@@ -195,6 +195,7 @@ exclude:
   - _pages/projects.md
   - _projects/*.md
   - _books/*.md
+  - _data/cv.yml
   
 keep_files:
   - CNAME
