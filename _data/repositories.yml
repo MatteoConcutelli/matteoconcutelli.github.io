@@ -5,9 +5,10 @@ repo_description_lines_max: 2
 
 github_repos:
   - MatteoConcutelli/Malware-Analysis-Exam
-  - MatteoConcutelli/Network-Infrastructures
-  - MatteoConcutelli/Machine-Learning-Assignments
   - MatteoConcutelli/Ethical-Hacking-Assignment
+  - MatteoConcutelli/Machine-Learning-Assignment
+  - MatteoConcutelli/Practical-Network-Defense
+  - MatteoConcutelli/Network-Infrastructures
   - MatteoConcutelli/MST-Julia
   - MatteoConcutelli/Lost-in-Assets
   - MatteoConcutelli/TodoListApp
